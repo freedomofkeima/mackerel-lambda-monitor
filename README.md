@@ -50,4 +50,9 @@ Each configuration file should have a pattern of `conf-*.json` (see `Makefile`).
 ![Scheduled Role](https://raw.githubusercontent.com/freedomofkeima/mackerel-lambda-monitor/master/img/scheduled_rule.png)
 
 
+License
+===============================
+
+MIT License.
+
 Last Updated: July 15, 2016
